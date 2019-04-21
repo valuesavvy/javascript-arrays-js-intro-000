@@ -12,6 +12,6 @@ var chocolateBars = [
   
   
 
-  var destructivelyAddElementToBeginningOfArray = ["foot", "hand", "mouth"];
-  destructivelyAddElementToBeginningOfArray.push("forehead");
-  return destructivelyAddElementToBeginningOfArray
+  
+  var darkside = destructivelyAddElementToBeginningOfArray.push("forehead");
+  
