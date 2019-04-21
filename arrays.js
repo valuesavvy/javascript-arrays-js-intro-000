@@ -8,8 +8,8 @@ var chocolateBars = [
   ];
   
   
- var newFart = addElementToBeginningOfArray.unshift("moose")
-  
+ 
+var destructivelyAddElementToBeginningOfArray = ([1], 'foo'))
   
 
   var destructivelyAddElementToBeginningOfArray = ([1]);
