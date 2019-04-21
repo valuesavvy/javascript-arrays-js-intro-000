@@ -9,7 +9,7 @@ var chocolateBars = [
   
   
  
-var destructivelyAddElementToBeginningOfArray = ([1], 'foo'))
+var destructivelyAddElementToBeginningOfArray ([1], 'foo'));
   
 
   var destructivelyAddElementToBeginningOfArray = ([1]);
